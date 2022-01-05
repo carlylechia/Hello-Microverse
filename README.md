@@ -9,6 +9,7 @@
 
 - HTML
 - CSS
+- Linters
 
 ## Authors
 
